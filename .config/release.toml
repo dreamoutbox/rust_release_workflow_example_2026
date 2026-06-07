@@ -9,5 +9,5 @@ tag = true
 pre-release-hook = ["cargo", "test"]
 
 # Commit message format
-pre-release-commit-message = "chore: release {{version}}"
+pre-release-commit-message = "RELEASE {{version}}"
 tag-message = "Release {{version}}"
