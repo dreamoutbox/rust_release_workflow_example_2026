@@ -5,4 +5,4 @@ if [ -z "$1" ]; then
     exit 1
 fi
 
-cargo release "$1" --execute
+cargo release "$1" --config .config/release.toml --execute
