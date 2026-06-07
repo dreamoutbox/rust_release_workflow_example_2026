@@ -2,7 +2,7 @@
 publish = false
 
 # Push tag → triggers your GHA release workflow
-push = false
+push = true
 tag = true
 
 # Optional: pre-release hook (run tests before bumping)
