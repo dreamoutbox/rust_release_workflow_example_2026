@@ -2,5 +2,9 @@
 name = "myproject"
 version = "0.1.0"
 edition = "2024"
+description = "A Rust project example with a release workflow"
+license = "MIT"
+repository = "https://github.com/dreamoutbox/rust_release_workflow_example_2026"
+
 
 [dependencies]
